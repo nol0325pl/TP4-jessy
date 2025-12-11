@@ -1,0 +1,11 @@
+# ninja log v6
+3	307	7871518192945371	build.ninja	5e6c47b72a2ff3e4
+44	423	7871518193681391	CMakeFiles/CFONB_Analyzer.dir/Source/cfonb_utils.c.obj	7a1181efb5afbddc
+26	424	7871518193497261	CMakeFiles/CFONB_Analyzer.dir/Source/cfonb_parser.c.obj	9d8833c46b67bc84
+32	425	7871518193557055	CMakeFiles/CFONB_Analyzer.dir/Source/cfonb_validator.c.obj	f1498cd2c34e7be3
+10	85	7871519562554601	CMakeFiles/CFONB_Analyzer.dir/Source/cfonb_stats.c.obj	4b409997de2e0c9b
+2	110	7871519711679294	CMakeFiles/CFONB_Analyzer.dir/Source/main.c.obj	f559f90c6769660e
+111	265	7871519712776690	CFONB_Analyzer.exe	a37da474b1a60c4c
+18	115	7871533993996434	CMakeFiles/CFONB_Analyzer.dir/Source/cfonb_parser.c.obj	9d8833c46b67bc84
+6	129	7871533993874881	CMakeFiles/CFONB_Analyzer.dir/Source/main.c.obj	f559f90c6769660e
+129	261	7871533995108017	CFONB_Analyzer.exe	a37da474b1a60c4c

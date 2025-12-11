@@ -1,0 +1,3 @@
+D:/Users/e2508615/CLionProjects/CFONB_Analyzer/cmake-build-debug/CMakeFiles/CFONB_Analyzer.dir
+D:/Users/e2508615/CLionProjects/CFONB_Analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/e2508615/CLionProjects/CFONB_Analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
