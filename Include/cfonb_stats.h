@@ -1,0 +1,8 @@
+//
+// Created by e2508615 on 11/12/2025.
+//
+
+#ifndef CFONB_ANALYZER_STATS_H
+#define CFONB_ANALYZER_STATS_H
+
+#endif //CFONB_ANALYZER_STATS_H
