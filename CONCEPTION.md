@@ -1,0 +1,1 @@
+Le format CFONB120 fonctionne par suite de chiffres chacun désignant une action, une personne, une date, un montant. Toutes ces informations sont vérifiées pour certifier l'exactitude de la demande d'un utilisateur à sa banque.

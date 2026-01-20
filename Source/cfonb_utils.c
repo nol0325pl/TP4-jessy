@@ -3,3 +3,15 @@
 //
 
 #include "../Include/cfonb_utils.h"
+
+float decoderMontant(const char* montantStr, int nbDecimales){
+    int i = 0;
+    int size = 0;
+    while ( montantStr[i]!= '\0'){
+            ++size;
+            ++i;
+        }
+    for ( int a = 0; a < size; a++ ){
+
+    }
+}
